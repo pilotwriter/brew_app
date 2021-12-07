@@ -1,7 +1,4 @@
-MissingPluginException(No implementation found for method signInAnonymously on channel# brew_app
-
-A new Flutter application.
-
+This is an app created by flutter to help office workers to communicate each other, when they are going to take coffee.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
